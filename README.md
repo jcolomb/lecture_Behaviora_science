@@ -3,6 +3,7 @@
 ##name
 Excellent scientific practive in behavioral studies
 
+##topics
 1. Behavioral studies
     - Variable control and randomisation
     - statistics and pre-registration
